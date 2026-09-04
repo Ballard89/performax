@@ -2,7 +2,7 @@
 // Performax Coffee — Shared Funnel Script
 // ============================================
 
-const WEB3FORMS_ACCESS_KEY = "cafa519c-8f9f-44ea-b344-64e87f72bd61";
+const WEB3FORMS_ACCESS_KEY = "0f026c34-c0b2-4a83-a611-56b66e8a443d";
 
 // FAQ accordion
 document.addEventListener("DOMContentLoaded", () => {
